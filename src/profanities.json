@@ -1,0 +1,4499 @@
+[
+    {
+        "profanity": "bastard",
+        "meaning": "illegitimate child",
+        "popularity": 10
+    },
+    {
+        "profanity": "fuck",
+        "meaning": "fornicate",
+        "popularity": 9
+    },
+    {
+        "profanity": "bitch",
+        "meaning": "female dog",
+        "popularity": 9
+    },
+    {
+        "profanity": "asshole",
+        "meaning": "jerk",
+        "popularity": 9
+    },
+    {
+        "profanity": "shit",
+        "meaning": "poop",
+        "popularity": 8
+    },
+    {
+        "profanity": "damn",
+        "meaning": "darn",
+        "popularity": 8
+    },
+    {
+        "profanity": "cock",
+        "meaning": "penis",
+        "popularity": 8
+    },
+    {
+        "profanity": "crap",
+        "meaning": "",
+        "popularity": 7
+    },
+    {
+        "profanity": "slut",
+        "meaning": "sexually popular woman",
+        "popularity": 7
+    },
+    {
+        "profanity": "pussy",
+        "meaning": "female reproductive organ",
+        "popularity": 7
+    },
+    {
+        "profanity": "piss",
+        "meaning": "urinate",
+        "popularity": 7
+    },
+    {
+        "profanity": "fag",
+        "meaning": "homosexual",
+        "popularity": 7
+    },
+    {
+        "profanity": "dick",
+        "meaning": "penis",
+        "popularity": 7
+    },
+    {
+        "profanity": "douche",
+        "meaning": "female hygene product",
+        "popularity": 6
+    },
+    {
+        "profanity": "darn",
+        "meaning": "",
+        "popularity": 5
+    },
+    {
+        "profanity": "motherfucker",
+        "meaning": "mother lover",
+        "popularity": 3
+    },
+    {
+        "profanity": "cunt",
+        "meaning": "vagina",
+        "popularity": 3
+    },
+    {
+        "profanity": "ass",
+        "meaning": "butt",
+        "popularity": 3
+    },
+    {
+        "profanity": "arse",
+        "meaning": "butt",
+        "popularity": 3
+    },
+    {
+        "profanity": "son-of-a-bitch",
+        "meaning": "",
+        "popularity": 2
+    },
+    {
+        "profanity": "bloody",
+        "meaning": "",
+        "popularity": 2
+    },
+    {
+        "profanity": "wanker",
+        "meaning": "",
+        "popularity": 2
+    },
+    {
+        "profanity": "bugger",
+        "meaning": "",
+        "popularity": 2
+    },
+    {
+        "profanity": "whore",
+        "meaning": "hussy",
+        "popularity": 2
+    },
+    {
+        "profanity": "shitty",
+        "meaning": "bad",
+        "popularity": 2
+    },
+    {
+        "profanity": "shithead",
+        "meaning": "jerk",
+        "popularity": 2
+    },
+    {
+        "profanity": "prick",
+        "meaning": "penis",
+        "popularity": 2
+    },
+    {
+        "profanity": "nigger",
+        "meaning": "african american",
+        "popularity": 2
+    },
+    {
+        "profanity": "nigga",
+        "meaning": "african american",
+        "popularity": 2
+    },
+    {
+        "profanity": "homo",
+        "meaning": "homosexual",
+        "popularity": 2
+    },
+    {
+        "profanity": "hell",
+        "meaning": "heck",
+        "popularity": 2
+    },
+    {
+        "profanity": "goddamn",
+        "meaning": "goshdarn",
+        "popularity": 2
+    },
+    {
+        "profanity": "fucker",
+        "meaning": "fornicator",
+        "popularity": 2
+    },
+    {
+        "profanity": "dickhead",
+        "meaning": "phallace face",
+        "popularity": 2
+    },
+    {
+        "profanity": "clit",
+        "meaning": "female genitals",
+        "popularity": 2
+    },
+    
+    {
+        "profanity": "masterbat",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "jesus",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "sadist",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "retard",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "fart",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "fanny",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "dog",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "creep",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "butt",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "bum",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "balls",
+        "meaning": "",
+        "popularity": 1
+    },
+    {
+        "profanity": "wank",
+        "meaning": "sexual act",
+        "popularity": 1
+    },
+    {
+        "profanity": "vagina",
+        "meaning": "female genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "twat",
+        "meaning": "female genitals",
+        "popularity": 1
+    },
+    {
+        "profanity": "tittyfuck",
+        "meaning": "sexual act",
+        "popularity": 1
+    },
+    {
+        "profanity": "tits",
+        "meaning": "breasts",
+        "popularity": 1
+    },
+    {
+        "profanity": "titfuck",
+        "meaning": "sexual act",
+        "popularity": 1
+    },
+    {
+        "profanity": "tit",
+        "meaning": "breast",
+        "popularity": 1
+    },
+    {
+        "profanity": "testicle",
+        "meaning": "male genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "snatch",
+        "meaning": "female genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "skank",
+        "meaning": "dirty girl",
+        "popularity": 1
+    },
+    {
+        "profanity": "shitting",
+        "meaning": "pooping",
+        "popularity": 1
+    },
+    {
+        "profanity": "shitter",
+        "meaning": "defecator",
+        "popularity": 1
+    },
+    {
+        "profanity": "shitdick",
+        "meaning": "idiot",
+        "popularity": 1
+    },
+    {
+        "profanity": "shitass",
+        "meaning": "idiot",
+        "popularity": 1
+    },
+    {
+        "profanity": "scrote",
+        "meaning": "male genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "schlong",
+        "meaning": "male genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "queer",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "pussies",
+        "meaning": "Female Genitalias",
+        "popularity": 1
+    },
+    {
+        "profanity": "pissflaps",
+        "meaning": "female genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "pissed",
+        "meaning": "urinated",
+        "popularity": 1
+    },
+    {
+        "profanity": "penisfucker",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "penis",
+        "meaning": "male genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "pecker",
+        "meaning": "Penis",
+        "popularity": 1
+    },
+    {
+        "profanity": "nutsack",
+        "meaning": "male genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "niggers",
+        "meaning": "African Americans",
+        "popularity": 1
+    },
+    {
+        "profanity": "muff",
+        "meaning": "female genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "motherfucking",
+        "meaning": "fornicating with mother",
+        "popularity": 1
+    },
+    {
+        "profanity": "mothafucka",
+        "meaning": "Jerk",
+        "popularity": 1
+    },
+    {
+        "profanity": "jizz",
+        "meaning": "Semen",
+        "popularity": 1
+    },
+    {
+        "profanity": "jerk-off",
+        "meaning": "masturbate",
+        "popularity": 1
+    },
+    {
+        "profanity": "jap",
+        "meaning": "japanesse person",
+        "popularity": 1
+    },
+    {
+        "profanity": "gaylord",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "fudgepacker",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "fuckwit",
+        "meaning": "dummy",
+        "popularity": 1
+    },
+    {
+        "profanity": "fucks",
+        "meaning": "sexual act",
+        "popularity": 1
+    },
+    {
+        "profanity": "fucking",
+        "meaning": "freaking",
+        "popularity": 1
+    },
+    {
+        "profanity": "fuckin",
+        "meaning": "sexual act",
+        "popularity": 1
+    },
+    {
+        "profanity": "fuckhead",
+        "meaning": "butt",
+        "popularity": 1
+    },
+    {
+        "profanity": "fucked",
+        "meaning": "had intercourse",
+        "popularity": 1
+    },
+    {
+        "profanity": "fellatio",
+        "meaning": "sexual act",
+        "popularity": 1
+    },
+    {
+        "profanity": "fatass",
+        "meaning": "a fat person",
+        "popularity": 1
+    },
+    {
+        "profanity": "faggot",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "dyke",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "dildo",
+        "meaning": "sexual toy",
+        "popularity": 1
+    },
+    {
+        "profanity": "cuntlicker",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "cunnilingus",
+        "meaning": "sexual act",
+        "popularity": 1
+    },
+    {
+        "profanity": "cum",
+        "meaning": "semen",
+        "popularity": 1
+    },
+    {
+        "profanity": "coon",
+        "meaning": "African American",
+        "popularity": 1
+    },
+    {
+        "profanity": "cocksucker",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "cockmuncher",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "cockhead",
+        "meaning": "idiot",
+        "popularity": 1
+    },
+    {
+        "profanity": "cockfucker",
+        "meaning": "idiot",
+        "popularity": 1
+    },
+    {
+        "profanity": "cockface",
+        "meaning": "idiot",
+        "popularity": 1
+    },
+    {
+        "profanity": "chink",
+        "meaning": "asian",
+        "popularity": 1
+    },
+    {
+        "profanity": "buttfucker",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "boner",
+        "meaning": "erection",
+        "popularity": 1
+    },
+    {
+        "profanity": "bollocks",
+        "meaning": "male genitalia",
+        "popularity": 1
+    },
+    {
+        "profanity": "blowjob",
+        "meaning": "sexual act",
+        "popularity": 1
+    },
+    {
+        "profanity": "blow-job",
+        "meaning": "sexual act",
+        "popularity": 1
+    },
+    {
+        "profanity": "bitches",
+        "meaning": "female dogs",
+        "popularity": 1
+    },
+    {
+        "profanity": "assfucker",
+        "meaning": "homosexual",
+        "popularity": 1
+    },
+    {
+        "profanity": "asses",
+        "meaning": "butts",
+        "popularity": 1
+    },
+    {
+        "profanity": "anus",
+        "meaning": "butt",
+        "popularity": 1
+    },
+    {
+        "profanity": "sweet-jesus",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "son-of-a-whore",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "son-of-a-motherless-goat",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shit-ass",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "judas-priest",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mary-and-joseph",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jesus-wept",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jesus-harold-christ",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jesus-h-christ",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jesus-christ",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "holy-shit",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "christ-on-a-cracker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "christ-on-a-bike",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "child-fucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "tittie",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "s-o-b",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nob-jokey",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mother-fucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mof",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mo-fo",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "masterb",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "master-bate",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "m-f",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jack-off",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "god-damned",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fux-r",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fudge-packer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "f-u-c-k-e-r",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dog-fucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cock-sucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "carpet-muncher",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bunny-fucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "a-s-s",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ass-fucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "zit-face",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "xxx-watcher",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "woody-allen",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "weeze-bag",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "toilett-cleaner",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "small-pricked",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "slimy-bastard",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "sleeze-bag",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "skuz-bag",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shit-eater",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "riff-raff",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "rat-fink",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "piggy-wiggy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pencil-dick",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pain-in-the-ass",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "orang-utan",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "old-fart",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "oil-dick",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mucky-pub",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "missing-link",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "latchkey-child",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "lard-face",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jack-ass",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "horse-fucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hell-dog",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuck-noggin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuck-head",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuck-face",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "flash-harry",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "do-do",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "diz-brain",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "disguesting-packet",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "derr-brain",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cunt-sucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "country-bumpkin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "con-man",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "con-merchant",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cock-up",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cock-master",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "children-fucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cave-man",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bum-fucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "brain-fart",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "blubber-gut",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ass-wipe",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ass-nugget",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ass-kisser",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ass-master",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "godsdamn",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "xxx",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "xrated",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "willy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "willies",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "whoar",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "wanky",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "wang",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "vulva",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "viagra",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "twunter",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "twunt",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "twatty",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "twathead",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "turd",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "tosser",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "titwank",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "tittywank",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "titties",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "tittiefucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "titt",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "testical",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "teez",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "teets",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "spunk",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "spac",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "smut",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "smegma",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "sluts",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shittings",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitters",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitted",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shits",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitings",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shiting",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitfull",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitfuck",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitey",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shited",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shite",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shemale",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shagging",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shaggin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shagger",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shag",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "sex",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "semen",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "scrotum",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "scroat",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "screwing",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "rimming",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "rimjaw",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "rectum",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pussys",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pussi",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pusse",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pube",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pron",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pricks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pornos",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pornography",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "porno",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "porn",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "poop",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pissoff",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pissing",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pissin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pisses",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pissers",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pisser",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pimpis",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pigfucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "phuq",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "phuks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "phukking",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "phukked",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "phuking",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "phuked",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "phuk",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "phuck",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "phonesex",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pawn",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "orgasms",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "orgasm",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "orgasims",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "orgasim",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "numbnuts",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nobjokey",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nobjocky",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nobhead",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nob",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "niggaz",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "niggas",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "niggah",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nazi",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mutherfucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "muther",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "muthafuckker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "muthafecker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mutha",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "motherfucks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "motherfuckka",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "motherfuckings",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "motherfuckin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "motherfuckers",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "motherfucked",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "motherfuck",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafucks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafuckings",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafucking",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafuckin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafuckers",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafucked",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafuckaz",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafuckas",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafuck",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mofo",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "masturbate",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "masterbations",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "masterbation",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "masterbate",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "masochist",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "lusting",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "lust",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "lmfao",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "labia",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "kunilingus",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "kums",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "kumming",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "kummer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "kum",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "kondums",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "kondum",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "kock",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "knobjokey",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "knobjocky",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "knobhead",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "knobend",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "knobed",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "knobead",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "knob",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "kawk",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jizm",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jiz",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jism",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jackoff",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hotsex",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "horny",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "horniest",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hore",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hoer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hoare",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hoar",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "heshe",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hardcoresex",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "goddamned",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "god",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "goatse",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "gaysex",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "gangbangs",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "gangbanged",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "gangbang",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fux",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fukwit",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fukwhit",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fukkin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fukker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuk",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckwhit",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckme",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckingshitmotherfucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckings",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckheads",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckers",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fucka",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fooker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fook",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "flange",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fistfucks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fistfuckings",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fistfucking",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fistfuckers",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fistfucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fistfucked",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fistfuck",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fingerfucks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fingerfucking",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fingerfuckers",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fingerfucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fingerfucked",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fingerfuck",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fellate",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "felching",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fecker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "feck",
+        "meaning": "",
+        "popularity": 0
+    },
+    
+    {
+        "profanity": "fanyy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fannyfucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fannyflaps",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fags",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fagots",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fagot",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "faggs",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "faggitt",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fagging",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ejakulate",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ejaculation",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ejaculatings",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ejaculating",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ejaculates",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ejaculated",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ejaculate",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "duche",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "doosh",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "donkeyribber",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dogging",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "doggin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dlck",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dirsa",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dinks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dink",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dildos",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cyberfucking",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cyberfuckers",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cyberfucker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cyberfucked",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cyberfuck",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cyberfuc",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cyalis",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cunts",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cuntlicking",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cuntlick",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cunillingus",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cunilingus",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cumshot",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cums",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cumming",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cummer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cox",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "coksucka",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cokmuncher",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cok",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksukka",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksuka",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksucks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksucking",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksucked",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksuck",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockmunch",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cnut",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "clits",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "clitoris",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cipa",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cawk",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "buttplug",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "buttmuch",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "butthole",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "buceta",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "breasts",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "booooooobs",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "booooobs",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "boooobs",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "booobs",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "boobs",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "boob",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bollok",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bollock",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "boiolas",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "blowjobs",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bitching",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bitchin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bitchers",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bitcher",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "biatch",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bestiality",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bestial",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bellend",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "beastiality",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "beastial",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ballsack",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ballbag",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "asswhole",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "assholes",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "assfukka",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "arrse",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "anal",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "yeti",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "yak",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "xenophobe",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "xenophebe",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "xena",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "worm",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "womanizer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "witch",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "wino",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "wierdo",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "wallflower",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "varmit",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "vandale",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "vampir",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "unlike",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "typ",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "tussi",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "thief",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "teletubby",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "swine",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "swindler",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "stunk",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "stripper",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "stinker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "square",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "snot",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "snob",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "snake",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "snail",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "slimer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "sleeze",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "slave",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "skunk",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "simulant",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "shark",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "schfincter",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "scarab",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "satan",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "saprophyt",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "sack",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "rufian",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "rowdy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "roboter",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ripper",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "reject",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "rat",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "querulant",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "prolet",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pornofreak",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pirate",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pig",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pervert",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pavian",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "pack",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "outlaw",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "original",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "oger",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "oddball",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "numb",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nuts",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nurd",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nobody",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "nerfhearder",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "neanderthal",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "mutant",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "monster",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "monkey",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "minx",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "macker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "macho",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "luzifer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "lumpy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "lucky",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "looser",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "killer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "junkey",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "joker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "jerk",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ignoramus",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "idiot",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hooligan",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "homosexual",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hippie",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "hillbilly",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fat",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "head",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "grumpy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "grouch",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "gorilla",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "goose",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ghost",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "gangster",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "frog",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "freak",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "flake",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fixer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fish",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fibber",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fellow",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fatso",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "farmer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "fake",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "exhibitionist",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "eunuch",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "egoist",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dumpy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dummy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dumbo",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dulles",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dufus",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "drunkard",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "drinker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dreamer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "drakula",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "donkey",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dogshit",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dirty",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "dinosaur",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "devil",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "desperado",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "deathlord",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "daywalker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "criminal",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cretin",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cow",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "coky",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockroach",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockboy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "clown",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "chicken",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cheater",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "chauvi",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "chaot",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "chaavanist",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "cannibal",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "camel",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "callgirl",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "callboy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "butthead",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bulloks",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "silly",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "brownie",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "brontosaurus",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "brainy",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "brainless",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bozo",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "boozer",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "booby",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bogeyman",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "biest",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "beginner",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "beavis",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "barbar",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "bandit",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "backwoodsman",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "baby",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "arselicker",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "ape",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "anarchist",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "analphabet",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "amateur",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "alcoholic",
+        "meaning": "",
+        "popularity": 0
+    },
+    {
+        "profanity": "wop",
+        "meaning": "Italian",
+        "popularity": 0
+    },
+    {
+        "profanity": "whoreface",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "whorebag",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "wetback",
+        "meaning": "Mexican",
+        "popularity": 0
+    },
+    {
+        "profanity": "wankjob",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "vjayjay",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "vajayjay",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "vag",
+        "meaning": "femail genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "va-j-j",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "unclefucker",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "twatwaffle",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "twats",
+        "meaning": "vaginas",
+        "popularity": 0
+    },
+    {
+        "profanity": "twatlips",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "thundercunt",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "tard",
+        "meaning": "mentally challenged",
+        "popularity": 0
+    },
+    {
+        "profanity": "suckass",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "spook",
+        "meaning": "White person",
+        "popularity": 0
+    },
+    {
+        "profanity": "splooge",
+        "meaning": "ejaculate",
+        "popularity": 0
+    },
+    {
+        "profanity": "spick",
+        "meaning": "mexican american",
+        "popularity": 0
+    },
+    {
+        "profanity": "spic",
+        "meaning": "mexican",
+        "popularity": 0
+    },
+    {
+        "profanity": "smeg",
+        "meaning": "poop",
+        "popularity": 0
+    },
+    {
+        "profanity": "slutbag",
+        "meaning": "sexually popular woman",
+        "popularity": 0
+    },
+    {
+        "profanity": "skullfuck",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "skeet",
+        "meaning": "semen",
+        "popularity": 0
+    },
+    {
+        "profanity": "shiznit",
+        "meaning": "poop",
+        "popularity": 0
+    },
+    {
+        "profanity": "shiz",
+        "meaning": "poop",
+        "popularity": 0
+    },
+    {
+        "profanity": "shittiest",
+        "meaning": "worst",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitstain",
+        "meaning": "poop",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitspitter",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "shithouse",
+        "meaning": "bathroom",
+        "popularity": 0
+    },
+    {
+        "profanity": "shithole",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitfaced",
+        "meaning": "Drunk",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitface",
+        "meaning": "pooface",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitcunt",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitcanned",
+        "meaning": "Fired",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitbreath",
+        "meaning": "Bad Breath",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitbrains",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitbagger",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "shitbag",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "sandnigger",
+        "meaning": "middle eastern",
+        "popularity": 0
+    },
+    {
+        "profanity": "sand-nigger",
+        "meaning": "middle eastern",
+        "popularity": 0
+    },
+    {
+        "profanity": "ruski",
+        "meaning": "Russian",
+        "popularity": 0
+    },
+    {
+        "profanity": "rimjob",
+        "meaning": "dirty sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "renob",
+        "meaning": "erection",
+        "popularity": 0
+    },
+    {
+        "profanity": "queerhole",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "queerbait",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "queef",
+        "meaning": "vaginal fart.",
+        "popularity": 0
+    },
+    {
+        "profanity": "puto",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "pussylicking",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "punta",
+        "meaning": "female dog",
+        "popularity": 0
+    },
+    {
+        "profanity": "punanny",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "porchmonkey",
+        "meaning": "African American",
+        "popularity": 0
+    },
+    {
+        "profanity": "porch-monkey",
+        "meaning": "african american",
+        "popularity": 0
+    },
+    {
+        "profanity": "poontang",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "poonany",
+        "meaning": "vagina",
+        "popularity": 0
+    },
+    {
+        "profanity": "poonani",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "poon",
+        "meaning": "female genitals",
+        "popularity": 0
+    },
+    {
+        "profanity": "pollock",
+        "meaning": "polish person",
+        "popularity": 0
+    },
+    {
+        "profanity": "polesmoker",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "pissed-off",
+        "meaning": "angry",
+        "popularity": 0
+    },
+    {
+        "profanity": "penispuffer",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "penisbanger",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "peckerhead",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "panooch",
+        "meaning": "femail genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "paki",
+        "meaning": "pakistanien",
+        "popularity": 0
+    },
+    {
+        "profanity": "nut-sack",
+        "meaning": "male genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "niglet",
+        "meaning": "african american child",
+        "popularity": 0
+    },
+    {
+        "profanity": "nigaboo",
+        "meaning": "African American",
+        "popularity": 0
+    },
+    {
+        "profanity": "negro",
+        "meaning": "african american",
+        "popularity": 0
+    },
+    {
+        "profanity": "munging",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "muffdiver",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "mothafuckin",
+        "meaning": "mother loving",
+        "popularity": 0
+    },
+    {
+        "profanity": "minge",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "mick",
+        "meaning": "irish",
+        "popularity": 0
+    },
+    {
+        "profanity": "mcfagget",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "lezzie",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "lesbo",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "lesbian",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "lardass",
+        "meaning": "overweight individual",
+        "popularity": 0
+    },
+    {
+        "profanity": "lameass",
+        "meaning": "loser",
+        "popularity": 0
+    },
+    {
+        "profanity": "kyke",
+        "meaning": "Jewish person",
+        "popularity": 0
+    },
+    {
+        "profanity": "kunt",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "kraut",
+        "meaning": "german",
+        "popularity": 0
+    },
+    {
+        "profanity": "kootch",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "kooch",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "kike",
+        "meaning": "Jewish Person",
+        "popularity": 0
+    },
+    {
+        "profanity": "junglebunny",
+        "meaning": "african american",
+        "popularity": 0
+    },
+    {
+        "profanity": "jungle-bunny",
+        "meaning": "african american",
+        "popularity": 0
+    },
+    {
+        "profanity": "jigaboo",
+        "meaning": "African American",
+        "popularity": 0
+    },
+    {
+        "profanity": "jerkass",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "jagoff",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "jackass",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "humping",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "honkey",
+        "meaning": "white person",
+        "popularity": 0
+    },
+    {
+        "profanity": "homodumbshit",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "hoe",
+        "meaning": "Woman",
+        "popularity": 0
+    },
+    {
+        "profanity": "ho",
+        "meaning": "woman",
+        "popularity": 0
+    },
+    {
+        "profanity": "heeb",
+        "meaning": "Jewish Person",
+        "popularity": 0
+    },
+    {
+        "profanity": "hard-on",
+        "meaning": "erection",
+        "popularity": 0
+    },
+    {
+        "profanity": "handjob",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "guido",
+        "meaning": "italian",
+        "popularity": 0
+    },
+    {
+        "profanity": "gringo",
+        "meaning": "foreigner",
+        "popularity": 0
+    },
+    {
+        "profanity": "gook",
+        "meaning": "Chinese",
+        "popularity": 0
+    },
+    {
+        "profanity": "gooch",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "goddamnit",
+        "meaning": "goshdarnit",
+        "popularity": 0
+    },
+    {
+        "profanity": "gaywad",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "gaytard",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "gayfuckist",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "gayfuck",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "gaydo",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "gaybob",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "gayass",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "gay",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckwitt",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckwad",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckup",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fucktart",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fucktard",
+        "meaning": "Moron",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckstick",
+        "meaning": "male genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckoff",
+        "meaning": "go away",
+        "popularity": 0
+    },
+    {
+        "profanity": "fucknutt",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fucknut",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckhole",
+        "meaning": "jerk",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckface",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckersucker",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckbutter",
+        "meaning": "Sexual fluids",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckbutt",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckbrain",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckboy",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckbag",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "fuckass",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "flamer",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "feltch",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "fagtard",
+        "meaning": "homosexual idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "faggotcock",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "faggit",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "fagfucker",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "fagbag",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "dumshit",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dumbshit",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dumbfuck",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dumbass",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dumb-ass",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dumass",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "douchewaffle",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "douchebag",
+        "meaning": "female hygene accessory",
+        "popularity": 0
+    },
+    {
+        "profanity": "douche-fag",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dookie",
+        "meaning": "poop",
+        "popularity": 0
+    },
+    {
+        "profanity": "doochbag",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dipshit",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dike",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickwod",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickweed",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickweasel",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickwad",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dicktickler",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "dicksucking",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "dicksucker",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickslap",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "dicks",
+        "meaning": "penises",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickmonger",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickmilk",
+        "meaning": "sperm",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickjuice",
+        "meaning": "semen",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickhole",
+        "meaning": "male genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickfucker",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickfuck",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickface",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickbeaters",
+        "meaning": "Hands",
+        "popularity": 0
+    },
+    {
+        "profanity": "dickbag",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "dick-sneeze",
+        "meaning": "orgasm",
+        "popularity": 0
+    },
+    {
+        "profanity": "deggo",
+        "meaning": "Italian",
+        "popularity": 0
+    },
+    {
+        "profanity": "dago",
+        "meaning": "Italian",
+        "popularity": 0
+    },
+    {
+        "profanity": "cuntslut",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cuntrag",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cunthole",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "cuntface",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cuntass",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cunnie",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "cumtart",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cumslut",
+        "meaning": "dirty girl",
+        "popularity": 0
+    },
+    {
+        "profanity": "cumjockey",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cumguzzler",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cumdumpster",
+        "meaning": "prostitute",
+        "popularity": 0
+    },
+    {
+        "profanity": "cumbubble",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cracker",
+        "meaning": "Caucasian",
+        "popularity": 0
+    },
+    {
+        "profanity": "cooter",
+        "meaning": "vagina",
+        "popularity": 0
+    },
+    {
+        "profanity": "coochy",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "coochie",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockwaffle",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksniffer",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksmoker",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksmoke",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocksmith",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockshit",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocknugget",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cocknose",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockmonkey",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockmongruel",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockmongler",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockmaster",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockknoker",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockjockey",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockburger",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockbite",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "cockass",
+        "meaning": "Jerk",
+        "popularity": 0
+    },
+    {
+        "profanity": "clusterfuck",
+        "meaning": "mess up",
+        "popularity": 0
+    },
+    {
+        "profanity": "clitfuck",
+        "meaning": "sexual act",
+        "popularity": 0
+    },
+    {
+        "profanity": "clitface",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "chode",
+        "meaning": "small penis",
+        "popularity": 0
+    },
+    {
+        "profanity": "choad",
+        "meaning": "male genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "chinc",
+        "meaning": "Chinese",
+        "popularity": 0
+    },
+    {
+        "profanity": "chesticle",
+        "meaning": "Breast",
+        "popularity": 0
+    },
+    {
+        "profanity": "carpetmuncher",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "camel-toe",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "buttfucka",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "butt-pirate",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "butt-plug",
+        "meaning": "cork",
+        "popularity": 0
+    },
+    {
+        "profanity": "bumblefuck",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "bullshit",
+        "meaning": "poop",
+        "popularity": 0
+    },
+    {
+        "profanity": "brotherfucker",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "bollox",
+        "meaning": "male genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "bitchy",
+        "meaning": "mean",
+        "popularity": 0
+    },
+    {
+        "profanity": "bitchtits",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "bitchass",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "beaner",
+        "meaning": "Mexican",
+        "popularity": 0
+    },
+    {
+        "profanity": "bampot",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "axwound",
+        "meaning": "female genitalia",
+        "popularity": 0
+    },
+    {
+        "profanity": "asswipe",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "asswad",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "asssucker",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "assshole",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "assshit",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "asspirate",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "assnigger",
+        "meaning": "Racial Slur",
+        "popularity": 0
+    },
+    {
+        "profanity": "assmuncher",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "assmunch",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "assmonkey",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "asslicker",
+        "meaning": "Buttlicker",
+        "popularity": 0
+    },
+    {
+        "profanity": "asslick",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "assjacker",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "asshopper",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "asshead",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "asshat",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "assgoblin",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "assfuck",
+        "meaning": "rear-loving",
+        "popularity": 0
+    },
+    {
+        "profanity": "assface",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "asscracker",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "asscock",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "assclown",
+        "meaning": "butt",
+        "popularity": 0
+    },
+    {
+        "profanity": "assbite",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "assbanger",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "assbandit",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "assbag",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "ass-pirate",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "ass-jabber",
+        "meaning": "homosexual",
+        "popularity": 0
+    },
+    {
+        "profanity": "ass-hat",
+        "meaning": "idiot",
+        "popularity": 0
+    },
+    {
+        "profanity": "arsehole",
+        "meaning": "butt",
+        "popularity": 0
+    }
+]

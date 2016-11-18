@@ -1,0 +1,9 @@
+node_modules
+config/firebase.json
+config/redis.json
+*.ico
+*.ini
+*.txt
+*.log
+*.zip
+*.rar

@@ -1,0 +1,28 @@
+{
+  "name": "uncensor",
+  "version": "1.0.0",
+  "description": "Fill in censored words with their corresponding profanities. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "profanity",
+    "filler",
+    "vulgar",
+    "complete",
+    "AI",
+    "censored",
+    "censor"
+  ],
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fast-levenshtein": "^2.0.5",
+    "lodash": "^4.16.6",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
