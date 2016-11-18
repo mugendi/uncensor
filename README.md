@@ -1,4 +1,4 @@
-# Uncensor**\***
+# Uncensor*****
 This module is created for the purposes of unmasking censored strings such as ```"f**k"```.
 
 ## But Why?
